@@ -3,8 +3,8 @@ import pandas as pd
 
 import ast
 
-movies = pd.read_csv('/Users/robinj/Downloads/WarlikeGreedyComputerscience/tmdb_5000_movies.csv')
-credits = pd.read_csv('/Users/robinj/Downloads/WarlikeGreedyComputerscience/tmdb_5000_credits.csv')
+movies = pd.read_csv("C:/Users/me/Downloads/WarlikeGreedyComputerscience 2/WarlikeGreedyComputerscience/tmdb_5000_movies.csv")
+credits = pd.read_csv("C:/Users/me/Downloads/WarlikeGreedyComputerscience 2/WarlikeGreedyComputerscience/tmdb_5000_credits.csv")
 
 movies.head()
 
